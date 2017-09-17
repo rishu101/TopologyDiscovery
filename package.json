@@ -1,0 +1,25 @@
+{
+  "name": "topologydiscovery",
+  "version": "1.0.0",
+  "description": "Discovers given peer-peer mesh topology. Supports add/removal of peers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishu101/TopologyDiscovery.git"
+  },
+  "keywords": [
+    "TopologyDiscovery"
+  ],
+  "author": "Rishu Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishu101/TopologyDiscovery/issues"
+  },
+  "homepage": "https://github.com/rishu101/TopologyDiscovery#readme",
+  "dependencies": {
+    "fully-connected-topology": "^1.1.1"
+  }
+}
